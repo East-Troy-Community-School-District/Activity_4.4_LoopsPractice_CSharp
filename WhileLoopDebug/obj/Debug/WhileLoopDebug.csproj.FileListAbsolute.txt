@@ -1,0 +1,6 @@
+\\et-fileserver\staff\pawnol\Desktop\WhileLoopDebug\bin\Debug\WhileLoopDebug.exe.config
+\\et-fileserver\staff\pawnol\Desktop\WhileLoopDebug\bin\Debug\WhileLoopDebug.exe
+\\et-fileserver\staff\pawnol\Desktop\WhileLoopDebug\bin\Debug\WhileLoopDebug.pdb
+\\et-fileserver\staff\pawnol\Desktop\WhileLoopDebug\obj\Debug\WhileLoopDebug.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\WhileLoopDebug\obj\Debug\WhileLoopDebug.exe
+\\et-fileserver\staff\pawnol\Desktop\WhileLoopDebug\obj\Debug\WhileLoopDebug.pdb

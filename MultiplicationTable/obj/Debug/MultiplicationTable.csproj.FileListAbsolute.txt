@@ -1,0 +1,7 @@
+\\et-fileserver\staff\pawnol\Desktop\MultiplicationTable\bin\Debug\MultiplicationTable.exe.config
+\\et-fileserver\staff\pawnol\Desktop\MultiplicationTable\bin\Debug\MultiplicationTable.exe
+\\et-fileserver\staff\pawnol\Desktop\MultiplicationTable\bin\Debug\MultiplicationTable.pdb
+\\et-fileserver\staff\pawnol\Desktop\MultiplicationTable\obj\Debug\MultiplicationTable.csproj.AssemblyReference.cache
+\\et-fileserver\staff\pawnol\Desktop\MultiplicationTable\obj\Debug\MultiplicationTable.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\MultiplicationTable\obj\Debug\MultiplicationTable.exe
+\\et-fileserver\staff\pawnol\Desktop\MultiplicationTable\obj\Debug\MultiplicationTable.pdb

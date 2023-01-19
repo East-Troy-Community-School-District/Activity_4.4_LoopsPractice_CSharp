@@ -1,0 +1,7 @@
+\\et-fileserver\staff\pawnol\Desktop\ForLoopDebug\bin\Debug\ForLoopDebug.exe.config
+\\et-fileserver\staff\pawnol\Desktop\ForLoopDebug\bin\Debug\ForLoopDebug.exe
+\\et-fileserver\staff\pawnol\Desktop\ForLoopDebug\bin\Debug\ForLoopDebug.pdb
+\\et-fileserver\staff\pawnol\Desktop\ForLoopDebug\obj\Debug\ForLoopDebug.csproj.AssemblyReference.cache
+\\et-fileserver\staff\pawnol\Desktop\ForLoopDebug\obj\Debug\ForLoopDebug.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\ForLoopDebug\obj\Debug\ForLoopDebug.exe
+\\et-fileserver\staff\pawnol\Desktop\ForLoopDebug\obj\Debug\ForLoopDebug.pdb
