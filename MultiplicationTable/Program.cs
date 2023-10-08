@@ -1,7 +1,8 @@
 ﻿/*
  * Multiplication Table
- * 1/19/2023
- * C#.NET I
+ * Pawelski
+ * 10/8/2023
+ * Developing Desktop Applications
  */
 
 using System;
